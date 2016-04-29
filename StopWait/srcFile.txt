@@ -1,0 +1,3 @@
+text is cool
+text is neat
+this class is fun

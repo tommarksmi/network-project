@@ -1,0 +1,9 @@
+0	"text is"	88, -103
+1	"cool`tex"	50, 98
+1	"cool`tex"	50, 98
+0	"t is nea"	21, 90
+1	"t`this c"	74, -97
+1	"t`this c"	74, -97
+0	"lass is"	-107, -19
+1	"fun"		64, 73
+1	"fun"		64, 73
